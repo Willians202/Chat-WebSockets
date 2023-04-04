@@ -10,9 +10,9 @@ CSS
 JavaScript
 
 
+---------------------------------------------------------------------------------------------
 Instalación
 
----------------------------------------------------------------------------------------------
 Para ejecutar esta aplicación en tu máquina local, sigue estos pasos:
 
 Clona el repositorio en tu máquina local usando Git:
